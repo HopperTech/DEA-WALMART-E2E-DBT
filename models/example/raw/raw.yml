@@ -1,0 +1,11 @@
+# models: 
+#   - name: raw_departments.sql
+#     description: "departments"
+#     columns: 
+#       - name: col
+#         description: col descrip
+#         tests: 
+#           - unique
+#           - not_null
+
+
